@@ -1,2 +1,3 @@
 # Visual_Tactile_Excavation_DP
-Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-buried Object in Granular Media
+Paper: Visual-Tactile Fusion-Driven Diffusion Policy for Robotic Excavation of Semi-buried Object in Granular Media
+Link: https://link.springer.com/content/pdf/10.1007/978-981-95-2101-2_37.pdf?pdf=inline%20link
