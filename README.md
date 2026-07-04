@@ -8,3 +8,13 @@ collect high-quality human demonstration data. We then propose a visual-tactile 
 **Keywords:** Robotic excavation, Semi-buried object, Granular materials
 
 ![visual tactile excavation](https://linan-deng.github.io/images/ICIRA-2025-visual_tactile_excavation.gif)
+
+## Repository Files
+
+- `run_DPRE.py`: excavation diffusion-policy training script.
+- `predict_action_dataset.py`: action prediction script for recorded excavation data.
+- `predict.py` and `run.py`: original Push-T diffusion-policy examples kept as references.
+- `model/`: vision, tactile, and diffusion network modules.
+- `model_save/`: saved checkpoint and loss records.
+- `remote_control_data_collection/`: teleoperation and sensor data collection utilities.
+- `gpu_watch.py` and `old_frame2time.py`: small utility scripts.

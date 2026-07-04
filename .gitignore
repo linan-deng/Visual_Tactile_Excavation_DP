@@ -1,0 +1,10 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Model checkpoints and generated training artifacts
+model_save/*.pth
+model_save/~$*.xlsx
+
+# Local editor settings
+.vscode/
